@@ -27,7 +27,7 @@ This project demonstrates how to monitor system resources and a Flask app using 
                       
 ## Working of Project
 ![Net Data Dashboard](net1.png) 
-![Flask app showing metrics](<net2.png>)
+![Flask app showing metrics](net2.png)
 
 
 
